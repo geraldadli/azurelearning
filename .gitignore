@@ -1,0 +1,23 @@
+# Ignore NuGet packages
+/packages/
+/.nuget/
+
+# Ignore build directories (bin and obj)
+[Bb]in/
+/obj/
+
+# Ignore user-specific files for Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Ignore temporary ASP.NET data
+App_Data/
+
+# Ignore user-specific settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+.fake
